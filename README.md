@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+Dev
+</h1>
 
-<!--
-**Kraphene/Kraphene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Juan, full stack developer working on blockchain apps.
 
-Here are some ideas to get you started:
+## Skills
+- 🌐 Cardano, Plutus
+- ⚙️ Rust, Haskell, JavaScript, Typescript, Python
+- 👁️ CSS, LaTeX, Inkscape
+- ☁️ MySQL, MongoDB, VitessDB, Debezium, Kubernetes, Docker, Grafana, Linux, Redis, Kafka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 𝕏   [Twitter](https://twitter.com/Pairfy_io)
+- 💻 [LinkedIn](https://www.linkedin.com/in/jcr1/) 
