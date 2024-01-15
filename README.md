@@ -8,7 +8,7 @@ I'm Juan, full stack developer working on blockchain apps.
 
 - 🌐 Cardano, Plutus
 - ⚙️ Rust, Haskell, JavaScript, Typescript, Python
-- 👁️ CSS, LaTeX, Inkscape
+- 👁️ CSS, LaTeX, Inkscape, Vue
 - ☁️ MySQL, PostgreSQL, MongoDB, VitessDB, Debezium, Kubernetes, Docker, Grafana, Linux, Redis, Kafka
 
 ## Contact
