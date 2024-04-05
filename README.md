@@ -13,15 +13,15 @@ I'm Juan, full stack developer working on blockchain apps.
 
 ## Open source Cardano contributions
 
-- DYORTOOL (except the questionnaire):
+- **DYORTOOL** (except the questionnaire):
 - Tool for researching dapp and nft projects on Cardano.
 - Link: https://dyortool.io
 
-- AUDITOCEAN (except the questionnaire):
+- **AUDITOCEAN** (except the questionnaire):
 - Tool for auditing dapps and nft projects on Cardano.
 - Link: https://auditocean.com
 
-- PAIRFY:
+- **PAIRFY**:
 - Native e-commerce
 - Link: https://pairfy.io
   
