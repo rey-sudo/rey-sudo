@@ -6,10 +6,10 @@ I'm Juan, full stack developer working on blockchain apps.
 
 ## Skills
 
-- 🌐 Cardano, Plutus
-- ⚙️ Rust, Haskell, JavaScript, Typescript, Python
-- 👁️ CSS, LaTeX, Inkscape, Vue
-- ☁️ MySQL, PostgreSQL, MongoDB, VitessDB, Debezium, Kubernetes, Docker, Grafana, Linux, Redis, Kafka
+- 📁 Cardano, Plutus
+- 📁 Rust, Haskell, JavaScript, Typescript, Python
+- 📁 CSS, LaTeX, Inkscape, Vue
+- 📁 MySQL, PostgreSQL, MongoDB, VitessDB, Debezium, Kubernetes, Docker, Grafana, Linux, Redis, Kafka
 
 ## Open source Cardano contributions
 
