@@ -4,7 +4,7 @@
 
 I'm Juan, full stack developer working on blockchain apps.
 
-sudo.delete.evil@{gmail.com}
+sudo.delete.evil@[gmail.com]
 
 ## Skills
 
