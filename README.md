@@ -4,6 +4,8 @@
 
 I'm Juan, full stack developer working on blockchain apps.
 
+sudo.delete.evil@{gmail.com}
+
 ## Skills
 
 - 📁 Cardano, Plutus
