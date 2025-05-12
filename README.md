@@ -83,7 +83,7 @@ It is a community-governed e-commerce that uses blockchain technology and artifi
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rey-sudo&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api?username=rey-sudo&show_icons=true&theme=radical" />
   <br />
