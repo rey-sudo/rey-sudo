@@ -75,7 +75,7 @@ It is a community-governed e-commerce that uses blockchain technology and artifi
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=rey-sudo&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
 </p>
 
