@@ -23,7 +23,6 @@
 
 I'm **Juan**, a full stack developer passionate about decentralization and real-world blockchain applications.  
 I specialize in building dapps for the **Cardano ecosystem**, with event-driven horizontal scaling microservices architecture.
-[Texto del enlace](https://example.com)
 
 [Plutus Pioneers - 2021 Class Photo - First Cohort - asset1h67p00u80a2vry7f4zpw0a452m55py0nqj9tqe](https://pool.pm/asset1h67p00u80a2vry7f4zpw0a452m55py0nqj9tqe)
 
