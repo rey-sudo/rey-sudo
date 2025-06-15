@@ -37,7 +37,7 @@ I specialize in building dapps for the **Cardano ecosystem**, with event-driven 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+![Nuxt vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex)
 
 ### ⚙️ DevOps & Infra
@@ -55,20 +55,12 @@ I specialize in building dapps for the **Cardano ecosystem**, with event-driven 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![Vitess](https://img.shields.io/badge/-Vitess-ff7043?style=flat-square)
-![Debezium](https://img.shields.io/badge/-Debezium-bf360c?style=flat-square)
+![Redis](https://img.shields.io/badge/-Debezium-bf360c?style=flat-square)
 ![Weaviate](https://img.shields.io/badge/-Weaviate-ff9900?style=flat-square)
 
 ---
 
 ## 🌍 Cardano Projects
-
-### [DYORTOOL](https://dyortool.io)
-Research dApps and NFT projects on Cardano  
-<sub><em>(Built all except the questionnaire)</em></sub>
-
-### [AUDITOCEAN](https://auditocean.com)  
-Audit platform for dApps and NFTs  
-<sub><em>(Built all except the questionnaire)</em></sub>
 
 ### [PAIRFY](https://pairfy.io)  
 It is a community-governed e-commerce that uses blockchain technology and artificial intelligence to generate a comprehensive value exchange ecosystem.
