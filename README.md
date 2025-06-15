@@ -63,7 +63,7 @@ I specialize in building dapps for the **Cardano ecosystem**, with event-driven 
 ## 🌍 Cardano Projects
 
 ### [PAIRFY](https://pairfy.io)  
-It is a community-governed e-commerce that uses blockchain technology and artificial intelligence to generate a comprehensive value exchange ecosystem.
+Catalyst F11 funded - Pairfy is a community-governed e-commerce that uses blockchain technology and artificial intelligence to generate a comprehensive value exchange ecosystem.
 
 ---
 
