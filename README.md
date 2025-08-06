@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://twitter.com/pairfy_cardano">
-    <img src="https://img.shields.io/twitter/follow/pairfy_protocol?style=for-the-badge&logo=twitter&color=1DA1F2" />
+    <img src="https://img.shields.io/twitter/follow/pairfydao?style=for-the-badge&logo=twitter&color=1DA1F2" />
   </a>
   <a href="https://www.linkedin.com/in/rey-sudo">
     <img src="https://img.shields.io/badge/LinkedIn-Juan%20Rey-blue?style=for-the-badge&logo=linkedin" />
