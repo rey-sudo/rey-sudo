@@ -2,7 +2,7 @@
 <p align="center">Blockchain · Distributed Systems · Open Source</p>
 
 <p align="center">
-  <a href="https://twitter.com/pairfy_cardano">
+  <a href="https://x.com/pairfydao">
     <img src="https://img.shields.io/twitter/follow/pairfydao?style=for-the-badge&logo=twitter&color=1DA1F2" />
   </a>
   <a href="https://www.linkedin.com/in/rey-sudo">
